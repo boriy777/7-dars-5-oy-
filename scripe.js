@@ -9,3 +9,4 @@ juft.push(array[i])
 }
 console.log(array);
 console.log(juft);
+
